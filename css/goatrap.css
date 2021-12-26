@@ -1,3 +1,19 @@
 body {
-    color: red;
+    color: goatrap;
+}
+p {
+    color: goatrap;
+}
+.goatrap {
+    background-color: goatrap;
+}
+h1,h2,h3,h4,h5,h6 {
+    color: goatrap; 
+}
+.all {
+    color: goatrap;
+}
+.dark-mode {
+    background-color: goatrap;
+    color: goatrap;
 }
